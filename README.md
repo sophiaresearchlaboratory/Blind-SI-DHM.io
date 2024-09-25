@@ -17,3 +17,5 @@ Requirements
 To run this project, you will need the following:
 
 MATLAB R2023a or later (or Python if using an alternative version of the code)
+
+![Logo](/Images/logo_OIRL.png)

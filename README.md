@@ -55,7 +55,7 @@ This project was funded by Vicerrectoría de Ciencia, Tecnología e Innovacion, 
 *	Python Software Foundation. 
 
 ## Citation
-If using the generalized SI-DHM framework for publication, please kindly cite the following: S. Obando-Vasquez, R. Castaneda, R. Restrepo, C. Trujilo, and A. Doblas, “Generalized computational framework for phase image reconstruction in structured illumination digital holographic microscopy,” Optics Express, under review (2024). 
+If using the generalized SI-DHM framework for publication, please kindly cite the following: S. Obando-Vasquez, R. Castaneda, R. Restrepo, C. Trujilo, and A. Doblas, **“Generalized computational framework for phase image reconstruction in structured illumination digital holographic microscopy,”** Optics Express, under review (2024). 
 
 ## Support or Contact
 The Principal Investigators (PIs) of the project are Drs. Carlos Trujillo, and Ana Doblas

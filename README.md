@@ -4,9 +4,6 @@ The use of a structured illumination (SI) pattern to illuminate a target complex
 ## Generalized SI-DHM framework 
 The block diagram of the generalized SI-DHM framework contains six stages. The first stage is focused on definiting the input parameters, which are the two recorded holograms (hi), the source wavelength (), and the pixel size of the sensor (xy). The second one is focused on estimating the Fourier spectra of the recorded holograms (Hi). The third one corresponds to the spatial filtering of the hologram spectrum to select the +1 term (H+1,i). The fourth and fifth steps are the demodulation of the laterally-shifted object spectrum encoded in the +1 term (i.e., Gplus and Gminus) and its proper centering in the frequency domain, respectively. Finally, the last step is the combination of both centered object spectra to generate the super-resolved phase image.
 
-<div align="center">
-  <img src="https://github.com/sophiaresearchlaboratory/Blind-SI-DHM/blob/main/docs/Images/ggggg.png" alt="">
-</div>
 
 ![Flowchart](/Images/flow.png)
 
@@ -47,46 +44,8 @@ Start target - Click to download,
 Parameters: wavelength 532 nm and pixel size 3.75 um
 
 ## Example of Matlab
-<style>
-    /* Estilo para la tabla */
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background-color: #d4f1d4; /* Fondo verde pastel */
-    }
-
-   .green-table {
-      background-color: #d4f1d4; /* Fondo verde pastel */
-    }
-
-    /* Celdas de la segunda tabla */
-    .green-table td {
-      border: 1px solid #cccccc;
-      padding: 10px;
-      background-color: #d4f1d4; /* Fondo verde pastel */
-    }
-
-    /* Texto rojo solo en la segunda tabla */
-    .green-table .text-red {
-      color: red;
-    }
-
-    /* Texto negro solo en la segunda tabla (opcional si el negro es el predeterminado) */
-    .green-table .text-black {
-      color: black;
-    }
-  </style>
-
-<table class="green-pastel">
-  <tbody>
-    <tr>
-       <td class="text-red">Texto rojo</td>
-      <td class="text-black">Texto negro</td>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+| ![Descripción de la imagen](imagenes/mi_imagen.png) |
+|------------------------------------------------------|
 
 ## Funding
 This project was funded by Vicerrectoría de Ciencia, Tecnología e Innovacion, the Fundamental Sciences area at Universidad EAFIT, and the National Science Foundation (NSF) (grant number 2042563 and 2404769).

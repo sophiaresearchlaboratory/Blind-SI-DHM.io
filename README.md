@@ -51,8 +51,8 @@ Parameters: wavelength 532 nm and pixel size 3.75 um
 This project was funded by Vicerrectoría de Ciencia, Tecnología e Innovacion, the Fundamental Sciences area at Universidad EAFIT, and the National Science Foundation (NSF) (grant number 2042563 and 2404769).
 
 ## Credits
-•	MATLAB (2020). version 7.10.0 (R2020a). Natick, Massachusetts: The MathWorks Inc.
-•	Python Software Foundation. 
+-	MATLAB (2020). version 7.10.0 (R2020a). Natick, Massachusetts: The MathWorks Inc.
+*	Python Software Foundation. 
 
 ## Citation
 If using the generalized SI-DHM framework for publication, please kindly cite the following: S. Obando-Vasquez, R. Castaneda, R. Restrepo, C. Trujilo, and A. Doblas, “Generalized computational framework for phase image reconstruction in structured illumination digital holographic microscopy,” Optics Express, under review (2024). 

@@ -47,7 +47,7 @@ Parameters: wavelength 532 nm and pixel size 3.75 um
 | ![Descripción de la imagen](Images/Matlab.png) |
 
 ## Example of Python
-| ![Descripción de la imagen](Images/Matlab.png) |
+| ![Descripción de la imagen](Images/python.png) |
 
 ## Funding
 This project was funded by Vicerrectoría de Ciencia, Tecnología e Innovacion, the Fundamental Sciences area at Universidad EAFIT, and the National Science Foundation (NSF) (grant number 2042563 and 2404769).

@@ -8,7 +8,7 @@ The block diagram of the generalized SI-DHM framework contains six stages. The f
   <img src="https://github.com/sophiaresearchlaboratory/Blind-SI-DHM/blob/main/docs/Images/ggggg.png" alt="">
 </div>
 
-![Flowchart](/Images/Picture1.png)
+![Flowchart](/Images/flow.png)
 
 ## Methods of use
 We have developed two implementations of the proposed generalized SI-DHM framework. One version minimizes the cost functions using iterative loops, while the other uses a heuristic approach. Both implementations are available for download in MATLAB and Python

@@ -44,7 +44,7 @@ Start target - Click to download,
 Parameters: wavelength 532 nm and pixel size 3.75 um
 
 ## Example of Matlab
-| ![Descripción de la imagen](imagenes/mi_imagen.png) |
+| ![Descripción de la imagen](Images/Matlab.png) |
 |------------------------------------------------------|
 
 ## Funding

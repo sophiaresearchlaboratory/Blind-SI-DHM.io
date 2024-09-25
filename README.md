@@ -37,10 +37,10 @@ We have developed two implementations of the proposed generalized SI-DHM framewo
 
 
 ## Download Samples
-<a href="/Samples/start">Test Start</a> 
+<a href="[/Samples/start](https://github.com/sophiaresearchlaboratory/Blind-SI-DHM.io/tree/main/Samples/start)">Test Start</a> 
 Parameter: wavelength 632.8 nm and pixel size 3.75 um
 
-<a href="/Samples/USAF">Test USAF</a> 
+<a href="[/Samples/USAF](https://github.com/sophiaresearchlaboratory/Blind-SI-DHM.io/tree/main/Samples/USAF)">Test USAF</a> 
 Parameters: wavelength 532 nm and pixel size 3.75 um
 
 ## Example of Matlab

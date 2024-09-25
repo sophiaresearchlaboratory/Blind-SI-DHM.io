@@ -37,10 +37,10 @@ We have developed two implementations of the proposed generalized SI-DHM framewo
 
 
 ## Download Samples
-<a href="/Samples/start" download>Test USAF</a> 
+<a href="/Samples/start">Test USAF</a> 
 Parameter: wavelength 632.8 nm and pixel size 3.75 um
 
-Start target - Click to download, 
+<a href="/Samples/USAF">Test USAF</a> 
 Parameters: wavelength 532 nm and pixel size 3.75 um
 
 ## Example of Matlab

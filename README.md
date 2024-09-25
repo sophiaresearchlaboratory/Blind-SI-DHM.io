@@ -69,7 +69,7 @@ If using the generalized SI-DHM framework for publication, please kindly cite th
     <tr>
         <td>Sofia Obando</td>
         <td>sobandovasquez@umassd.edu</td>
-        <td>h</td>
+        <td><a href="https://scholar.google.com/citations?user=01-dFrAAAAAJ&hl=es">Google Sholar</a></td>
     </tr>
     <tr>
         <td>Raul Castaneda</td>
@@ -79,17 +79,17 @@ If using the generalized SI-DHM framework for publication, please kindly cite th
     <tr>
         <td>Rene Restrepo</td>
         <td>rrestre6@eafit.edu.co</td>
-        <td>h</td>
+        <td><a href="https://scholar.google.com.co/citations?hl=en&user=nLcBLUwAAAAJ&view_op=list_works&sortby=pubdate">Google Sholar</a></td>
     </tr>
     <tr>
         <td>Carlos Trujillo*</td>
         <td>catrujilla@eafit.edu.co</td>
-        <td>h</td>
+        <td><a href="https://scholar.google.com.co/citations?user=BKVrl2gAAAAJ&hl=en">Google Sholar</a></td>
     </tr>
     <tr>
         <td>Ana Doblas*</td>
         <td>adoblas@umassd.edu</td>
-        <td>h</td>
+        <td><a href="https://scholar.google.com.co/citations?user=PvvDEMYAAAAJ&hl=en">Google Sholar</a></td>
     </tr>
 </table>
 The Principal Investigators (PIs) of the project are Drs. Carlos Trujillo, and Ana Doblas

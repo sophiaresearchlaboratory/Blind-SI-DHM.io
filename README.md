@@ -74,7 +74,7 @@ If using the generalized SI-DHM framework for publication, please kindly cite th
     <tr>
         <td>Raul Castaneda</td>
         <td>racastaneq@eafit.edu.co</td>
-        <td>h</td>
+        <td><a href="https://scholar.google.com.co/citations?user=RBtkL1oAAAAJ&hl=en">Google Sholar</a></td>
     </tr>
     <tr>
         <td>Rene Restrepo</td>

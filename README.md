@@ -60,6 +60,38 @@ This project was funded by Vicerrectoría de Ciencia, Tecnología e Innovacion, 
 If using the generalized SI-DHM framework for publication, please kindly cite the following: S. Obando-Vasquez, R. Castaneda, R. Restrepo, C. Trujilo, and A. Doblas, **“Generalized computational framework for phase image reconstruction in structured illumination digital holographic microscopy,”** Optics Express, under review (2024). 
 
 ## Support or Contact
+<table>
+    <tr>
+        <td>Researcher</td>
+        <td>e-mail</td>
+        <td>Google Shocolar</td>
+    </tr>
+    <tr>
+        <td>Sofia Obando</td>
+        <td>sobandovasquez@umassd.edu</td>
+        <td>h</td>
+    </tr>
+    <tr>
+        <td>Raul Castaneda</td>
+        <td>racastaneq@eafit.edu.co</td>
+        <td>h</td>
+    </tr>
+    <tr>
+        <td>Rene Restrepo</td>
+        <td>rrestre6@eafit.edu.co</td>
+        <td>h</td>
+    </tr>
+    <tr>
+        <td>Carlos Trujillo*</td>
+        <td>catrujilla@eafit.edu.co</td>
+        <td>h</td>
+    </tr>
+    <tr>
+        <td>Ana Doblas*</td>
+        <td>adoblas@umassd.edu</td>
+        <td>h</td>
+    </tr>
+</table>
 The Principal Investigators (PIs) of the project are Drs. Carlos Trujillo, and Ana Doblas
 
 

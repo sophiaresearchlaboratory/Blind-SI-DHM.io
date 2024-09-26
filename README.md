@@ -62,9 +62,9 @@ If using the generalized SI-DHM framework for publication, please kindly cite th
 ## Support or Contact
 <table>
     <tr>
-        <td>Researcher</td>
-        <td>e-mail</td>
-        <td>Google Shocolar</td>
+        <td><b>Researcher</b></td>
+        <td><b>e-mail</b></td>
+        <td><b>Google Shocolar</b></td>
     </tr>
     <tr>
         <td>Sofia Obando</td>

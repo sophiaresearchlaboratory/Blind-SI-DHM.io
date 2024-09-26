@@ -11,8 +11,8 @@ The block diagram of the generalized SI-DHM framework contains six stages. The f
 We have developed two implementations of the proposed generalized SI-DHM framework. One version minimizes the cost functions using iterative loops, while the other uses a heuristic approach. Both implementations are available for download in MATLAB and Python
 
 
-<div class="table_component" role="region" tabindex="0">
-<table   margin-left: auto;margin-right: auto;">
+<div class="table_component" role="region" tabindex="0" style="width:100%">
+<table style="border: 1rem;margin-left: auto; margin-right: auto;">
     <thead>
         <tr>
             <th></th>

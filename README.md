@@ -12,7 +12,7 @@ We have developed two implementations of the proposed generalized SI-DHM framewo
 
 
 <div class="table_component" role="region" tabindex="0">
-<table>
+<table   margin-left: auto;margin-right: auto;">
     <thead>
         <tr>
             <th></th>

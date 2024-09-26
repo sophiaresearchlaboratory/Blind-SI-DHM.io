@@ -95,4 +95,4 @@ If using the generalized SI-DHM framework for publication, please kindly cite th
 The Principal Investigators (PIs) of the project are Drs. Carlos Trujillo, and Ana Doblas
 
 
-<img src="/Images/logo_OIRL.png" width="426" height="87"> <img src="https://github.com/sophiaresearchlaboratory/Blind-SI-DHM.io/blob/main/Images/SOPHIA_RG.png" width="426" height="87">
+<img src="/Images/logo_OIRL.png" width="426" height="87"> <img src="https://raw.githubusercontent.com/sophiaresearchlaboratory/Blind-SI-DHM.io/refs/heads/main/Images/SOPHIA_RG.png" width="426" height="87">

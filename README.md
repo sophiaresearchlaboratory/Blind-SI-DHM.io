@@ -96,3 +96,4 @@ The Principal Investigators (PIs) of the project are Drs. Carlos Trujillo, and A
 
 
 ![Logo](/Images/logo_OIRL.png)
+![Logo](/Images/SOPHIA_RG.png)

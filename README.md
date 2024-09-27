@@ -1,5 +1,4 @@
 # Generalized computational framework for Structured Illumination Digital Holography
-HOLAA ANA Y SOPHIA
 The use of a structured illumination (SI) pattern to illuminate a target complex object in digital holographic microscopy (DHM) allows for encoding high spatial frequencies of the target microscopic sample into the +1 diffraction term, reconstructing super-resolved phase images after the proper computational reconstruction. The accuracy of these phase maps depends on the correct demodulation of the high-resolution frequencies within the +1 term and the proper compensation of the interference angle between the object and reference waves of the DHM system. This work presents a generalized reconstruction framework for SI-DHM that automatically demodulates the two laterally-shifted object spectrums and compensates for the linear phase term of the optical interference with minimum input from the user (i.e., two recorded holograms with a phase shift of the SI pattern, the source’s wavelength and the pixel size of the sensor). 
 
 ## Generalized SI-DHM framework 
